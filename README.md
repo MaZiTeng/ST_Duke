@@ -1,5 +1,6 @@
 # ST_Duke
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/spatial-temporal-person-re-identification/person-re-identification-on-dukemtmc-reid)](https://paperswithcode.com/sota)
+[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/MaZiTeng/ST_Duke.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/MaZiTeng/ST_Duke/context:python)
 
 we achieve Rank@1=94.52%, mAP=84.09% without re-ranking and Rank@1=93.08%, mAP=91.95% with re-ranking
 
