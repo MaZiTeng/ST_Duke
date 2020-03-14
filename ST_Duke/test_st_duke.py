@@ -16,10 +16,10 @@ import os
 import scipy.io
 
 # Import corresponding package！
-from model_dens_50 import ft_net, ft_net_dense, PCB, PCB_test
-# from model_50_old import ft_net, ft_net_dense, PCB, PCB_test
-# from model_50_new import ft_net, ft_net_dense, PCB, PCB_test
-# from model_101 import ft_net, ft_net_dense, PCB, PCB_test
+from model_dens import ft_net, ft_net_dense, PCB, PCB_test
+# from model_resnet50 import ft_net, ft_net_dense, PCB, PCB_test
+# from model_res2net50 import ft_net, ft_net_dense, PCB, PCB_test
+# from model_res2net101 import ft_net, ft_net_dense, PCB, PCB_test
 
 ######################################################################
 # Options

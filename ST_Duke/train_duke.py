@@ -21,10 +21,10 @@ from random_erasing import RandomErasing
 import json
 
 # Import corresponding package！
-from model_dens_50 import ft_net, ft_net_dense, PCB
-# from model_50_old import ft_net, ft_net_dense, PCB
-# from model_50_new import ft_net, ft_net_dense, PCB
-# from model_101 import ft_net, ft_net_dense, PCB
+from model_dens import ft_net, ft_net_dense, PCB
+# from model_resnet50 import ft_net, ft_net_dense, PCB
+# from model_res2net50 import ft_net, ft_net_dense, PCB
+# from model_res3net101 import ft_net, ft_net_dense, PCB
 ######################################################################
 # Options
 # --------
